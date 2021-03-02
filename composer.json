@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "name": "Transport",
+    "description": "Transport",
+    "psr-4": {
+      "TransportApp\\": "app"
+    }
+  }
+}
